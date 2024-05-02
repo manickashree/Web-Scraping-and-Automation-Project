@@ -1,4 +1,4 @@
-# Web-Scraping-and-Automation-Project
+# Craigslist Scraping
 ## Overview<br>
 This project involves web scraping with Python to target the "free" category in the San Francisco Bay Area section of Craigslist. Additionally, it includes automating the login process for The Old Reader, leveraging skills similar to those used in our previous Neopets project.
 
